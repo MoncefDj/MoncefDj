@@ -1,11 +1,11 @@
-![MasterHead](https://flamingolabel.com/wp-content/uploads/2019/08/long-swoop-header.png)
+![header image](Photos/long-swoop-header.png)
+
 <h1 align="center">Hi 👋, I'm Djezzar Moncef</h1>
 <h3 align="center">Technically-Minded Software Engineer Seeking Entry-Level Opportunities</h3>
 
 - 🌱 I’m currently learning **Data science, Machine learning, Python programming**
 
 - 📫 How to reach me **djezzarmonsef@gmail.com**
-
 
 - 📄 Know about my experiences **[https://rxresu.me/r/WYRit4VQ](https://rxresu.me/r/WYRit4VQ)**
 
