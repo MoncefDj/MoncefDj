@@ -1,14 +1,14 @@
 ![header image](Photos/long-swoop-header.png)
 
 <h1 align
-="center">Hi 👋, I'm Djezzar Moncef</h1>
+="center">Hi 👋, I'm Moncef Djezzar</h1>
 <h3 align="center">Motivated Software Engineer Seeking Entry-Level Opportunities</h3>
 
 - 🌱 I’m currently learning **Data science, Machine learning, and Python programming**
 
-- 📫 How to reach me **djezzarmonsef@gmail.com**
+- 📫 How to reach me: **djezzarmonsef@gmail.com**
 
-- 📄 Know about my experiences **[https://rxresu.me/r/WYRit4VQ](https://rxresu.me/r/WYRit4VQ)**
+- 📄 Know about my experiences: **[My resume](https://rxresu.me/djezzarmonsef/cv-6-2023)**
 
 <h3 align="left">
 Connect with me:</h3>
