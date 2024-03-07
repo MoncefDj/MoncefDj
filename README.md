@@ -2,7 +2,7 @@
 
 <h1 align
 ="center">Hi 👋, I'm Moncef Djezzar</h1>
-<h3 align="center">Motivated Software Engineer Seeking Entry-Level Opportunities</h3>
+<h3 align="center">Artificial intelligence and Data Science Student with a Bachelor's degree in Computer Science.</h3>
 
 - 🌱 I’m currently learning **Data science, Machine learning, and Python programming**
 
